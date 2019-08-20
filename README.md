@@ -8,4 +8,4 @@ Just a simplified version of the game, used to fix my knowledge of >Javascript a
 
 ![Screenshot1](https://github.com/pedroalmeida415/flappy-bird-clone/blob/master/screenshots/flappybird1.png)
 
-![Image of Yaktocat](https://github.com/pedroalmeida415/flappy-bird-clone/blob/master/screenshots/Screenshot_17)
+![Image of Yaktocat](https://github.com/pedroalmeida415/flappy-bird-clone/blob/master/screenshots/Screenshot_17.png)
